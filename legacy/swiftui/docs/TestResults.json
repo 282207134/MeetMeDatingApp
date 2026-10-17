@@ -1,0 +1,66 @@
+{
+  "verifiedAt": "2026-10-17T19:42:20.083569+09:00",
+  "device": "MeetMe iPhone 17",
+  "os": "iOS 26.0 (23A343)",
+  "xcode": "26.0.1 (17A400)",
+  "resultPolicy": "Latest execution for each case; registration was rerun using the keyboard Done control between fields to avoid input-method composition affecting focus.",
+  "passed": 9,
+  "failed": 0,
+  "binarySHA256": "133131bdba57c1d92163ea28be531e487cc7f384b4ec7cf0075b1637a9c9c776",
+  "tests": [
+    {
+      "name": "AppStoreTests/testFiltersAndPassUndoPersist()",
+      "status": "Passed",
+      "seconds": 0.016206979751586914,
+      "sourceResultBundle": "build/SimulatorTests-Verified.xcresult"
+    },
+    {
+      "name": "AppStoreTests/testMutualLikeCreatesOnePersistentMatch()",
+      "status": "Passed",
+      "seconds": 0.004121899604797363,
+      "sourceResultBundle": "build/SimulatorTests-Verified.xcresult"
+    },
+    {
+      "name": "AppStoreTests/testProfileAndPreferencesSurviveRestartAndSignOut()",
+      "status": "Passed",
+      "seconds": 0.003523111343383789,
+      "sourceResultBundle": "build/SimulatorTests-Verified.xcresult"
+    },
+    {
+      "name": "AppStoreTests/testWhitespaceMessagesAreNotSentAndBlockRemovesConversation()",
+      "status": "Passed",
+      "seconds": 0.0030649900436401367,
+      "sourceResultBundle": "build/SimulatorTests-Verified.xcresult"
+    },
+    {
+      "name": "MeetMeUITests/testEditProfileAndPreferencePersistence()",
+      "status": "Passed",
+      "seconds": 25.571436047554016,
+      "sourceResultBundle": "build/SimulatorTests-Verified.xcresult"
+    },
+    {
+      "name": "MeetMeUITests/testFavoritesAndConnections()",
+      "status": "Passed",
+      "seconds": 15.170222997665405,
+      "sourceResultBundle": "build/SimulatorTests-Verified.xcresult"
+    },
+    {
+      "name": "MeetMeUITests/testFilterEmptyStateAndReset()",
+      "status": "Passed",
+      "seconds": 19.291100025177002,
+      "sourceResultBundle": "build/SimulatorTests-Verified.xcresult"
+    },
+    {
+      "name": "MeetMeUITests/testLikeMatchConversationAndPersistence()",
+      "status": "Passed",
+      "seconds": 22.819934010505676,
+      "sourceResultBundle": "build/SimulatorTests-Verified.xcresult"
+    },
+    {
+      "name": "MeetMeUITests/testRegistrationAndOnboarding()",
+      "status": "Passed",
+      "seconds": 29.437196016311646,
+      "sourceResultBundle": "build/RegistrationStable.xcresult"
+    }
+  ]
+}

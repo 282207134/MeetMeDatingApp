@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-18",
+  "framework": "Flutter 3.41.6",
+  "dart": "3.11.4",
+  "xcode": "26.0.1",
+  "device": "MeetMe iPhone 17",
+  "os": "iOS 26.0 Simulator",
+  "bundleId": "dev.meetme.meetme",
+  "analysis": "passed",
+  "unitTests": {"passed": 6, "failed": 0},
+  "widgetTests": {"passed": 4, "failed": 0},
+  "integrationFlows": {"passed": 3, "failed": 0},
+  "manualChecks": ["normal application startup", "saved state after process restart", "system photo picker", "custom profile photo persisted to Documents"],
+  "screenshots": "docs/screenshots",
+  "androidRuntimeTested": false,
+  "physicalDeviceTested": false,
+  "dataMode": "local demo"
+}
